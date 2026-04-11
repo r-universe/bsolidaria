@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "coda.pack"]
+	path = coda.pack
+	url = https://github.com/cran/coda.pack
 [submodule "coda.plot"]
 	path = coda.plot
 	url = https://github.com/cran/coda.plot
